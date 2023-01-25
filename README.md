@@ -10,7 +10,7 @@ Top Level Design:
 
 Polarity Gate:
 
-![image](https://user-images.githubusercontent.com/98293562/214469113-f2456f4d-6462-4d27-9b7c-cee3a4e6df85.png)
+![image](https://user-images.githubusercontent.com/98293562/214589741-b4d8b580-9054-4a48-9c74-42cdc315a71e.png)
 
 Schematic Gate:
 
