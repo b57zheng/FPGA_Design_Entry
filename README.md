@@ -1,4 +1,4 @@
-Designed a digital circuit to control LED patterns with push buttons.
+Designed a digital circuit to control LED patterns with push buttons taggle switches.
 
 Board used: the University of Waterloo LogicalStep Board housing an Altera MAX10 Field Programmable Gate Array (FPGA) chip and various peripheral components
 
